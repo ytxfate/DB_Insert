@@ -1,0 +1,2 @@
+删除 MongoDB 服务：
+sc delete "MongoDB"
