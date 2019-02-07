@@ -1,0 +1,1 @@
+下载 tar.gz 结尾的 mongodb 安装包，解压配置 mongodb.conf 启动即可
