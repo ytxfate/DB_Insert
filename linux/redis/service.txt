@@ -1,0 +1,1 @@
+将 redis 目录下 utils/redis_init_script 复制到 /etc/rc.d 目录下，并重命名为 redis，使用 chkconfig --add redis 设置为开机启动
